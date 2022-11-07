@@ -1,0 +1,22 @@
+﻿  GameObjects.cpp
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(37,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(38,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(39,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(40,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(53,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(54,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(61,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(62,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(63,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(64,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(78,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(79,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(81,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\GameObjects.cpp(82,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SDLGame.cpp
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\SDLGame.cpp(587,70): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\SDLGame.cpp(588,74): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\SDLGame.cpp(1026,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\SDL Game\SDLGame.cpp(1026,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDL Game.vcxproj -> D:\Homework\Semester 2\Game Programming\Assessment 2\SDL Game\x64\Debug\SDL Game.exe
